@@ -18,8 +18,8 @@ body, input, textarea {
 
 header{
 padding: 16px 0;
-background-color: #182061;
-color: #ecf0f1;
+background-color: #15eca1eb;
+color: #06b273b9;
 }
 
 header nav li{
@@ -29,7 +29,7 @@ header nav li{
 }
 
 header nav li a{
-    color: #ecf0f1;
+    color: #f9faf9f1;
     text-decoration: none;
 }
 
@@ -47,7 +47,7 @@ section .container{
 }
 
 .brands-list img{
-    height: 24px;
+    height: 95px;
 }
 
 .brands-list li{
@@ -66,18 +66,18 @@ section h2 {
     margin-bottom: 16px;
 }
 section{
-    color: #182061;
+    color: #036c65;
 }
 section p{
     margin-bottom: 8px; 
 }
 
 .store-front {
-    margin-right: 32px ;
+    margin-right: 24px ;
 }
 
 .social-links img{
-    height: 24px;
+    height: 16px;
 }
 .social-links li{
     display: inline;
@@ -109,26 +109,27 @@ form textarea{
 }
 
 section h3{
-    margin-bottom: 16px;
+    font-size: 24px;
+    margin-bottom: 24px;
 }
 
 form button{
-    background-color: #182061;
-    color: #ecf0f1;
+    background-color: #023f3e;
+    color: #78939a;
     border: none;
     cursor: pointer;
 }
 
 form button:hover{
-    background-color: #525ca9;
+    background-color: #06b273b9;
 }
 
 input:focus, textarea:focus{
-    outline-color: #182061;
+    outline-color: #06b273b9;
 }
 
 footer{
-    background-color: #182061;
-    color: #ecf0f1;
+    background-color: #06b273b9;
+    color: #b4cdd3;
     padding: 16px 0;
 }
